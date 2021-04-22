@@ -6,8 +6,10 @@
 {
   "hosting": {
     "site": "principle",
+	--only hosting:principle
     "public": "public",
     ...
   }
 }
+--only hosting:principle
 <body>
